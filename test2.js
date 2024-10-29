@@ -1,1 +1,1 @@
-console.log('test 2 js')
+console.log('test 2 js baru')

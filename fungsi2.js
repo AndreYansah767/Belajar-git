@@ -1,0 +1,1 @@
+console.timeLog(1 + 2)
